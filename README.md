@@ -20,6 +20,9 @@ by Cuong Manh Hoang, Yeejin Lee, Byeongkeun Kang,The 39th Annual AAAI Conference
 ## Installation
 Our implementation is based on the [Detectron2 v0.6](https://github.com/facebookresearch/detectron2) framework. For our experiments we followed [Detectron2's setup guide](https://github.com/facebookresearch/detectron2/blob/main/INSTALL.md) and picked the **CUDA=11.3** and **torch=1.10** versions (`python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html` may work). All the additional dependencies we put to `requirements.txt`. We used Python 3.8 for all experiments.
 
+## Download datasets
+Please follow [RNCDL](https://github.com/vlfom/RNCDL/tree/main) for data preparation.
+
 ## Citation
 If you find our paper useful in your research or reference it in your work, please star our repository and use the folowing:
 ```bibtex
