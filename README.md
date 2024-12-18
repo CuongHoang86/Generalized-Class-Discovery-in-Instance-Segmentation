@@ -1,4 +1,4 @@
-## Generalized-Class-Discovery-in-Instance-Segmentation
+## Generalized Class Discovery in Instance Segmentation
 
 This repository provides the official implementation of the following paper:
 
