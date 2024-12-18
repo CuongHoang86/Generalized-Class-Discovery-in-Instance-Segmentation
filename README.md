@@ -4,7 +4,9 @@ This repository provides the official implementation of the following paper:
 
 **Generalized Class Discovery in Instance Segmentation**
 
-by Cuong Manh Hoang, Yeejin Lee, Byeongkeun Kang,The 39th Annual AAAI Conference on Artificial Intelligence, 2025
+[Cuong Manh Hoang](https://scholar.google.com/citations?user=7sUs5o8AAAAJ&hl=en), [Yeejin Lee](https://ieeexplore.ieee.org/author/37075435600), [Byeongkeun Kang](https://scholar.google.com/citations?user=YvKVr0UAAAAJ&hl=en)
+
+In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 
 [Paper]() | [Source code](https://github.com/CuongHoang86/Generalized-Class-Discovery-in-Instance-Segmentation/tree/main) | [Poster]() 
 
