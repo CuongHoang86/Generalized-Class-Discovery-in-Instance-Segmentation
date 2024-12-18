@@ -6,7 +6,7 @@ This repository provides the official implementation of the following paper:
 
 by Cuong Manh Hoang, Yeejin Lee, Byeongkeun Kang,The 39th Annual AAAI Conference on Artificial Intelligence, 2025
 
-[Paper]() | [Source code]() | [Poster]() 
+[Paper]() | [Source code](https://github.com/CuongHoang86/Generalized-Class-Discovery-in-Instance-Segmentation/tree/main) | [Poster]() 
 
 
 **What is it?** In Generalized-Class-Discovery-in-Instance-Segmentation, the model has to segment and discover objects of unknown classes using only the labels of known classes.
