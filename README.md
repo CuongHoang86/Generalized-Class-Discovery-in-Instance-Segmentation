@@ -23,7 +23,7 @@
 
 
 ## Installation
-This implementation is based on [mmdetection](https://github.com/open-mmlab/mmdetection)(v1.0.0). All the additional dependencies we put to requirements.txt. We used Python 3.8 for all experiments.
+This implementation is based on [mmdetection](https://github.com/open-mmlab/mmdetection) (v1.0.0). All the additional dependencies we put to requirements.txt. We used Python 3.8 for all experiments.
 
 ## Download datasets
 Please follow [RNCDL](https://github.com/vlfom/RNCDL/tree/main) to download data.
