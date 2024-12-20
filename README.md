@@ -11,7 +11,7 @@ In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 [Paper]() | [Source code](https://github.com/CuongHoang86/Generalized-Class-Discovery-in-Instance-Segmentation/tree/main) | [Poster]() 
 
 
-**What is it?** In Generalized-Class-Discovery-in-Instance-Segmentation, the model has to segment and discover objects of unknown classes using only the labels of known classes.
+**What is it?** In Generalized-Class-Discovery-in-Instance-Segmentation, it assumes that the unlabeled data may contain both known and novel classes, making the problem more challenging and realistic. Given labeled and unlabeled data, GCD aims to train a model capable of recognizing both the known classes in the labeled data and the novel categories discovered from the unlabeled data.
 
 <img src="./figure/Selection_330.png" width="70%"> <br/>
 
