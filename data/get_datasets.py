@@ -258,8 +258,8 @@ class Obdata(data.Dataset):
         # else:
         #     _semseg_dir = os.path.join(self.root, 'SegmentationClass')
 
-        _image_dir = os.path.join('/home/cuonghoang/Desktop/codedict/GCC-master2/new_image')
-        _semseg_dir = os.path.join('/home/cuonghoang/Desktop/codedict/GCC-master2/new_sal')
+        _image_dir = os.path.join('new_image')
+        _semseg_dir = os.path.join('new_sal')
 
         # Download
         # if download:
@@ -270,8 +270,8 @@ class Obdata(data.Dataset):
 
         # Splits are pre-cut
         # print("Initializing dataloader for PASCAL VOC12 {} set".format(''.join(self.split)))
-        split_file = os.path.join('/home/cuonghoang/Desktop/codedict/GCC-master2/image.txt')
-        split_label = os.path.join('/home/cuonghoang/Desktop/codedict/GCC-master2/mask_label.txt')
+        split_file = os.path.join('image.txt')
+        split_label = os.path.join('mask_label.txt')
 
         # split_file = os.path.join('image (copy).txt')
         # split_label = os.path.join('label (copy).txt')
