@@ -3,13 +3,12 @@
 set -e
 set -x
 
-# epoch=390
 
 CUDA_VISIBLE_DEVICES=0 python train.py \
     --dataset_name 'cifar10' \
-    --batch_size 8 \
+    --batch_size 128 \
     --grad_from_block 11 \
-    --epochs 2 \
+    --epochs 390 \
     --num_workers 4 \
     --use_ssb_splits \
     --sup_weight 0.35 \
