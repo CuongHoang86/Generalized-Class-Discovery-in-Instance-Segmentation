@@ -34,7 +34,7 @@ queue_ptr=0
 queue_ptr1=0
 queue_ptr12=0
 queue_ptr13=0
-queue_size=1600 #1600
+queue_size=65536 #1600
 
 @torch.no_grad()
 def dequeue_and_enqueue( queue,keys):
