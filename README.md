@@ -23,7 +23,7 @@
 
 
 ## Installation
-Our implementation is based on the [Detectron2 v0.6](https://github.com/facebookresearch/detectron2) framework. For our experiments we followed [Detectron2's setup guide](https://github.com/facebookresearch/detectron2/blob/main/INSTALL.md) and picked the **CUDA=11.3** and **torch=1.10** versions (`python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html` may work). All the additional dependencies we put to `requirements.txt`. We used Python 3.8 for all experiments.
+This implementation is based on [mmdetection](https://github.com/open-mmlab/mmdetection)(v1.0.0). Please refer to [INSTALL.md](docs/INSTALL.md) for installation and dataset preparation.
 
 ## Download datasets
 Please follow [RNCDL](https://github.com/vlfom/RNCDL/tree/main) to download data.
